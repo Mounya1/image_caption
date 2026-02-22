@@ -20,8 +20,9 @@ Optional for evaluation:
 - `nltk.translate.bleu_score`
 
 ---
-```
 ## Directory Structure
+```
+
 project/
 │
 ├── input/

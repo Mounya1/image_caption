@@ -20,7 +20,7 @@ Optional for evaluation:
 - `nltk.translate.bleu_score`
 
 ---
-
+```
 ## Directory Structure
 project/
 │
@@ -38,7 +38,7 @@ project/
 ├── image_caption.ipynb# Training and evaluation script
 │
 └── README.md # This file
-
+```
 
 "- input/flickr8k/Images` – contains the dataset images.
 - input/flickr8k/captions.txt` – CSV-like file with image IDs and captions.
